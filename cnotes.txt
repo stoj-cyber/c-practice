@@ -1,0 +1,23 @@
+------------------------
+notes : 
+created by STOJ-CYBER
+------------------------
+1. Date : 12-03-2022
+Topic intro : Basics and examples
+MAIN CONTENTS :
+ Datatype
+ Stataments
+ Loop
+ Operators
+ Array
+ Function
+ Pointers
+ File Management
+
+ -- Genaral concepts --
+ 
+
+ -> memmory - Bytes of memmory is used for Datatype and find variable using memmory address.
+              Diffrent Datatype is used Diffrent memmory.
+              "%p" is used to display hexa decimal numbers with on address.
+ -> ENUM    - This are the user defined identifiers & it makes a program more readable.
